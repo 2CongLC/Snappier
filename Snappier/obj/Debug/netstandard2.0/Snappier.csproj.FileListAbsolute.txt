@@ -1,0 +1,13 @@
+D:\Source VBNet_C#\GitHub\Snappier\Snappier\obj\Debug\netstandard2.0\Snappier.csproj.AssemblyReference.cache
+D:\Source VBNet_C#\GitHub\Snappier\Snappier\obj\Debug\netstandard2.0\Snappier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source VBNet_C#\GitHub\Snappier\Snappier\obj\Debug\netstandard2.0\Snappier.AssemblyInfoInputs.cache
+D:\Source VBNet_C#\GitHub\Snappier\Snappier\obj\Debug\netstandard2.0\Snappier.AssemblyInfo.cs
+D:\Source VBNet_C#\GitHub\Snappier\Snappier\obj\Debug\netstandard2.0\Snappier.csproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\GitHub\Snappier\Snappier\obj\Debug\netstandard2.0\Snappier.sourcelink.json
+D:\Source VBNet_C#\GitHub\Snappier\Snappier\bin\Debug\netstandard2.0\Snappier.deps.json
+D:\Source VBNet_C#\GitHub\Snappier\Snappier\bin\Debug\netstandard2.0\Snappier.dll
+D:\Source VBNet_C#\GitHub\Snappier\Snappier\bin\Debug\netstandard2.0\Snappier.pdb
+D:\Source VBNet_C#\GitHub\Snappier\Snappier\bin\Debug\netstandard2.0\Snappier.xml
+D:\Source VBNet_C#\GitHub\Snappier\Snappier\obj\Debug\netstandard2.0\Snappier.dll
+D:\Source VBNet_C#\GitHub\Snappier\Snappier\obj\Debug\netstandard2.0\Snappier.xml
+D:\Source VBNet_C#\GitHub\Snappier\Snappier\obj\Debug\netstandard2.0\Snappier.pdb

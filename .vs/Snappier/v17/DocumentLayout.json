@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Source VBNet_C#\\GitHub\\Snappier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F277C8D-81B3-4217-B070-D983EE8555AE}|Snappier\\Snappier.csproj|d:\\source vbnet_c#\\github\\snappier\\snappier\\snappy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F277C8D-81B3-4217-B070-D983EE8555AE}|Snappier\\Snappier.csproj|solutionrelative:snappier\\snappy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F277C8D-81B3-4217-B070-D983EE8555AE}|Snappier.csproj|D:\\Source VBNet_C#\\GitHub\\Snappier\\snappier\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F277C8D-81B3-4217-B070-D983EE8555AE}|Snappier.csproj|solutionrelative:snappier\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F277C8D-81B3-4217-B070-D983EE8555AE}|Snappier.csproj|D:\\Source VBNet_C#\\GitHub\\Snappier\\snappier\\snappier.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8F277C8D-81B3-4217-B070-D983EE8555AE}|Snappier.csproj|solutionrelative:snappier\\snappier.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Snappy.cs",
+              "DocumentMoniker": "D:\\Source VBNet_C#\\GitHub\\Snappier\\Snappier\\Snappy.cs",
+              "RelativeDocumentMoniker": "Snappier\\Snappy.cs",
+              "ToolTip": "D:\\Source VBNet_C#\\GitHub\\Snappier\\Snappier\\Snappy.cs",
+              "RelativeToolTip": "Snappier\\Snappy.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:01:08.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Source VBNet_C#\\GitHub\\Snappier\\Snappier\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Snappier\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Source VBNet_C#\\GitHub\\Snappier\\Snappier\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Snappier\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:00:45.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Snappier",
+              "DocumentMoniker": "D:\\Source VBNet_C#\\GitHub\\Snappier\\Snappier\\Snappier.csproj",
+              "RelativeDocumentMoniker": "Snappier\\Snappier.csproj",
+              "ToolTip": "D:\\Source VBNet_C#\\GitHub\\Snappier\\Snappier\\Snappier.csproj",
+              "RelativeToolTip": "Snappier\\Snappier.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T04:59:38.538Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
